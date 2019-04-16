@@ -1,0 +1,14 @@
+.user-container {
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;    
+}
+.user-head {
+    width: 40%;
+    margin-bottom: 1rem;
+}
+.user-form {
+    width: 40%;
+}

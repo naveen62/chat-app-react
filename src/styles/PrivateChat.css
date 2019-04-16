@@ -1,0 +1,26 @@
+.sender {
+    display: flex;
+    background: #BDBDBD;
+    padding: 5px 5px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 10;
+}
+#in {
+    flex-grow: 1;
+}
+.type {
+    background: rgba(253,216,53,0.5);
+    padding: 3px 0;
+    text-align: center; 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 2.5rem;
+}
+.chat-item {
+    background: rgb(224,224,224);
+    border: 1px solid black;
+    padding: 1rem 2rem;
+}
